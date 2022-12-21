@@ -1,0 +1,16 @@
+body{
+    background-color:  #1b2631;
+}
+
+.yearCalculator{
+    background-color: #ecf0f1;
+    border: 1px solid #1b2631;
+    width:30%;
+    border-radius: 15px;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    height:auto;
+    padding: 50px;
+    
+}
